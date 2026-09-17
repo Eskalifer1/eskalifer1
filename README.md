@@ -44,12 +44,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eskalifer1&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/eskalifer/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
   </a>
